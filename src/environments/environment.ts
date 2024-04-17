@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  url_api: 'https://dcreea-backend-production-98a4.up.railway.app',
+  url_api: 'https://dcreea-backend-production-d30c.up.railway.app',
 };
 
 /*
